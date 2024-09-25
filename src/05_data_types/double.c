@@ -6,4 +6,6 @@ int main() {
 
   printf("%0.15f\n", a);
   printf("%0.15lf\n", b);
+
+  return 0;
 }
